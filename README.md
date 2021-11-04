@@ -1,2 +1,2 @@
 # NER
-A repo for Chinnese name entity recognition(NER).
+A repo for Chinese name entity recognition(NER).
